@@ -1,5 +1,6 @@
 ---
 title: "The normal distribution"
+author: "YOHANNES DEBOCH"
 output:
   html_document:
     theme: cerulean
